@@ -1,4 +1,4 @@
-package com.example.demo.CreationalPattern.SingletonPattern;
+package com.example.demo.creationalPattern.SingletonPattern;
 
 import lombok.extern.slf4j.Slf4j;
 
