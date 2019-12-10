@@ -1,4 +1,4 @@
-package com.example.demo.elephantbehaviorpattern;
+package com.example.demo.elephantbehaviorpattern.strategyPattern;
 
 /**
  * @ClassName : ManJianPromotionStrategy
